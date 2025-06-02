@@ -1,1 +1,1 @@
-web: cd clinic_app_backend && gunicorn wsgi:application --bind 0.0.0.0:$PORT --workers 2 --timeout 120 
+web: gunicorn --chdir clinic_app_backend wsgi:application --bind 0.0.0.0:$PORT --workers 2 --timeout 120 --log-level debug 

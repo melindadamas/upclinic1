@@ -1,0 +1,119 @@
+PESSOAL DE SAÚDE - NÍVEL SUPERIOR
+
+ANESTESISTA
+  - 223104 - Médico Anestesiologista
+
+ASSISTENTE SOCIAL
+  - 251605 - Assistente Social
+
+BIOQUÍMICO/FARMACÊUTICO
+  - 223405 - Farmacêutico Boticário Cosmetólogo
+  - 223410 - Farmacêutico Bioquímico / Farmacêutico de Alimentos
+
+CIRURGIÃO GERAL
+  - 223110 - Médico Cirurgião Geral
+
+CLÍNICO GERAL
+  - 223115 - Médico Clínico
+  - 223129 - Médico Generalista / Alopata
+
+ENFERMEIRO
+  - 223505 - Enfermeiro
+  - 223510 - Enfermeiro Auditor
+  - 2235C2 - Enfermeiro da Estratégia / Agente Comunitário
+  - 223515 - Enfermeiro de Bordo
+  - 223520 - Enfermeiro de Centro Cirúrgico / Instrumentador
+  - 223525 - Enfermeiro de Terapia Intensiva
+  - 223530 - Enfermeiro do Trabalho
+  - 223535 - Enfermeiro Nefrologista
+  - 223540 - Enfermeiro Neonatologista / Enfermeiro de Berçário
+  - 223545 - Enfermeiro Obstétrico / Parteira
+  - 223550 - Enfermeiro Psiquiátrico
+  - 223555 - Enfermeiro Puericultor e Pediátrico
+  - 223560 - Enfermeiro Sanitarista / Saúde Pública
+  - 2235C1 - Enfermeiro Saúde da Família
+  - 2235.. - Outros Enfermeiros
+
+FISIOTERAPEUTA
+  - 223600 - Fisioterapeuta / Cinesiólogo
+
+FONOAUDIÓLOGO
+  - 223810 - Fonoaudiólogo
+
+GINECO OBSTETRA
+  - 223132 - Médico Ginecologista Obstetra / Cirurgião Gineco-Obstetra
+
+MÉDICO DE FAMÍLIA
+  - 223116 - Médico de Saúde da Família / Médico Comunitário
+
+NUTRICIONISTA
+  - 223710 - Nutricionista
+
+ODONTÓLOGO
+  - 223204 - Cirurgião Dentista Auditor
+  - 223208 - Cirurgião Dentista Clínico Geral
+  - 223212 - Cirurgião Dentista Endodontista / Canalista
+  - 223216 - Cirurgião Dentista Epidemiologista
+  - 223220 - Cirurgião Dentista Estomatologista
+  - 223224 - Cirurgião Dentista Implantodontista
+  - 223228 - Cirurgião Dentista Odontogeriatra
+  - 223232 - Cirurgião Dentista Odontologista Legal
+  - 223236 - Cirurgião Dentista Odontopediatra
+  - 223240 - Cirurgião Dentista Ortopedista / Ortodontista
+  - 223244 - Cirurgião Dentista Patologista Bucal
+  - 223248 - Cirurgião Dentista Periodontista / Gengivista
+  - 223252 - Cirurgião Dentista Protesiólogo / Bucomaxilofacial
+  - 223256 - Cirurgião Dentista Protesista / Próteses
+  - 223260 - Cirurgião Dentista Radiologista / Odontorradiologista
+  - 223264 - Cirurgião Dentista Reabilitador Oral
+  - 223268 - Cirurgião Dentista Traumatologista Bucomaxilofacial
+  - 223272 - Cirurgião Dentista de Saúde Coletiva
+  - 2232B1 - Cirurgião Dentista de Saúde da Família
+
+PEDIATRA
+  - 223149 - Médico Pediatra / Hebiatra / Neonatologista
+
+PSICÓLOGO
+  - 251510 - Psicólogo Clínico / Acupunturista
+  - 251515 - Psicólogo do Esporte / Desportivo
+  - 251540 - Psicólogo do Trabalho / Organizacional
+  - 251530 - Psicólogo do Trânsito / Social
+  - 251505 - Psicólogo Educacional / da Educação
+  - 251520 - Psicólogo Hospitalar
+  - 251535 - Psicólogo Jurídico / Forense
+  - 251525 - Psicólogo Social / Criminal
+
+PSIQUIATRA
+  - 223153 - Médico Psiquiatra / Psicanalista
+
+RADIOLOGISTA
+  - 223124 - Médico em Radiologia / Diagnóstico por Imagem
+
+SANITARISTA
+  - 223156 - Médico Sanitarista / Epidemiologista / Higienista
+
+OUTRAS ESPECIALIDADES MÉDICAS
+  - 223101 a 223157 - (Demais especialidades médicas como: Acupunturista, Alergista, Cardiologista, Cirurgião Vascular, Dermatologista, Infectologista, Neurologista, Oncologista, Urologista etc.)
+
+OUTRAS OCUPAÇÕES DE NÍVEL SUPERIOR RELACIONADAS À SAÚDE
+  - 221105 - Biólogo
+  - 1999A2 - Ocupação sem correspondência no CBO 2002
+  - 239405 - Coordenador Pedagógico
+  - 222105 - Engenheiro Agrícola
+  - 222110 - Engenheiro Agrônomo
+  - 213105 - Físico
+  - 213150 - Físico Hospitalar / Médico
+  - 213155 - Físico Nuclear
+  - 262620 - Musicólogo
+  - 251545 - Neuropsicólogo
+  - 239410 - Orientador Educacional
+  - 223615 - Ortoptista
+  - 239415 - Pedagogo / Especializado em Deficiência
+  - 203305 a 203525 - Pesquisadores (em diversas áreas da saúde, biologia e ciências humanas)
+  - 224120 - Preparador Físico
+  - 231205 a 234455 - Professores (Educação Física, Artes, Nutrição, Terapia Ocupacional etc.)
+  - 251550 - Psicanalista
+  - 239425 - Psicopedagogo
+  - 213205 - Químico
+  - 223620 - Terapeuta Ocupacional
+

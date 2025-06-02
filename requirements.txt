@@ -1,0 +1,28 @@
+django>=5.0,<5.3  # Ou a versão específica do Django que você está usando
+
+# Para servir a aplicação em produção
+gunicorn
+
+# Para conectar ao PostgreSQL
+psycopg[binary] # Ou psycopg2-binary se preferir
+
+# Para ler a DATABASE_URL do ambiente
+dj-database-url
+
+# Para servir arquivos estáticos em produção
+whitenoise[brotli]
+
+# Para Django REST framework e JWT (se estiver usando para APIs)
+djangorestframework
+djangorestframework-simplejwt
+
+# Para CORS (Cross-Origin Resource Sharing)
+django-cors-headers
+
+# Para Channels (se estiver usando WebSockets)
+channels
+channels_redis
+
+# Outras dependências que seu projeto possa ter...
+# Exemplo: redis (se estiver usando Channels com Redis)
+# redis

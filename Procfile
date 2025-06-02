@@ -1,1 +1,1 @@
-web: gunicorn clinic_app_backend.wsgi:application 
+web: gunicorn clinic_app_backend.wsgi:application --bind 0.0.0.0:$PORT 

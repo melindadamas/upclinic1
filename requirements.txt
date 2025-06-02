@@ -8,7 +8,7 @@ python-dotenv==1.0.0
 channels==4.0.0
 daphne==4.0.0
 redis==5.0.1
-Pillow==10.1.0
+Pillow==9.5.0
 django-filter==23.3
 django-storages==1.14.2
 boto3==1.28.64
@@ -28,10 +28,10 @@ django-rest-framework-jwt-verify-refresh==0.0.1
 django-rest-framework-jwt-verify-verify==0.0.1
 
 # Para ler a DATABASE_URL do ambiente
-dj-database-url
+dj-database-url==2.1.0
 
 # Para Channels (se estiver usando WebSockets)
-channels_redis
+channels-redis==4.1.0
 
 # Outras dependências que seu projeto possa ter...
 # Exemplo: redis (se estiver usando Channels com Redis)

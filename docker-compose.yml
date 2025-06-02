@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:14
+    container_name: postgres
+    restart: always
+    environment:
+      POSTGRES_DB: upclinic
+      POSTGRES_USER: upclinic_admin
+      POSTGRES_PASSWORD: senha_segura_aqui
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - app_network
+
+  backend:
+    build: ./backend
+    container_name: backend
+    restart: always
+    depends_on:
+      - db
+    env_file:
+      - ./backend/.env
+    environment:
+      - DATABASE_URL=postgres://upclinic_admin:senha_segura_aqui@db:5432/upclinic
+      - DJANGO_SECRET_KEY=sua_chave_secreta
+      - DJANGO_DEBUG=False
+      - ALLOWED_HOSTS=clinicupapp.com,.clinicupapp.com
+    ports:
+      - "8000:8000"
+    networks:
+      - app_network
+
+  frontend:
+    build: ./frontend
+    container_name: frontend
+    restart: always
+    depends_on:
+      - backend
+    ports:
+      - "80:80"
+    networks:
+      - app_network
+
+networks:
+  app_network:
+    driver: bridge
+
+volumes:
+  postgres_data: 
